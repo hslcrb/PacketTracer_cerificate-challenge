@@ -35565,10 +35565,11 @@ Cisco, Cisco Systems, and the Cisco Systems logo are registered trademarks of Ci
  </OPTIONS>
  <ACTIVITY PASS="AECDAAB164C8F07988830F7CB1D9A511" FORWARD_ANS_SIM_MS="0" TIMERTYPE="0" ENABLED="no" COUNTDOWNMS="10000" >
   <INSTRUCTIONS>
-   <PAGE translate="true" ><![CDATA[[ 주의?�항 ]
+   <PAGE translate="true" ><![CDATA[[ 주의사항 이올시다. ]
 
-- ?��??�간 : 1?�간 30�?
-- 'ISP' ?�우?��? 'Server'???��? 구성?�어 ?�으???�정?��? 마시??]]></PAGE>
+- 시험시간은 1시간 30분이나... 5분컷 가능하겠소?
+- 한국인을 화나게 하고싶다면 말을 하다 마시오.
+- 또한, ISP와 서버는...]]></PAGE>
   </INSTRUCTIONS>
  </ACTIVITY>
  <VARIABLE_MANAGER>
